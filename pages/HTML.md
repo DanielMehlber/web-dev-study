@@ -1,0 +1,9 @@
+- Strukturierter Aufbau einer [[Webseite]] und eine Sprache zur **Strukturierung und Auszeichnung von Texten**
+- Wird vom [[World Wide Web Consortium]] weiterentwickelt und standardisiert
+- Funktionen:
+	- Verweise zur anderen Seiten und damit **Vernetzung von Informationen**
+	- Erzeugen von Tabellen und anderen Strukturen
+	- Multimedia (Bilder, Audiodateien, sonstige Dateien) in Form von Referenzen
+	- Schnittstellen zur Erweiterung durch CSS, JavaScript
+- **Einfach generierbar** => Da Klartextformat
+- **Keine Installation nötig** => Anzeigeformat, keine Pflege von Updates durch den Nutzer nötig

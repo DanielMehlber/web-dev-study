@@ -1,0 +1,2 @@
+- Wird mit [[HTML]], [[CSS]], [[JavaScript]] erstellt.
+- Die 3 Sprachen wurden werden _seperation of concerns_ erstellt
