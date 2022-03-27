@@ -1,0 +1,2 @@
+- Kurz **W3C**
+- Weiterentwicklung und Standardisierung von HTML, CSS, JavaScript

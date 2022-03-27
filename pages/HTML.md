@@ -3,7 +3,12 @@
 - Funktionen:
 	- Verweise zur anderen Seiten und damit **Vernetzung von Informationen**
 	- Erzeugen von Tabellen und anderen Strukturen
-	- Multimedia (Bilder, Audiodateien, sonstige Dateien) in Form von Referenzen
+	- Multimedia (Bilder, Audiodateien, sonstige Dateien) in Form von Referenzen => Werden mit Request  nachgefordert
 	- Schnittstellen zur Erweiterung durch CSS, JavaScript
 - **Einfach generierbar** => Da Klartextformat
 - **Keine Installation nötig** => Anzeigeformat, keine Pflege von Updates durch den Nutzer nötig
+-
+- Der [W3C HTML Validator](https://validator.w3.org) überprüft das Format einer HTML Datei
+- {{embed [[HTML Head]]}}
+- {{embed [[HTML Body]]}}
+-

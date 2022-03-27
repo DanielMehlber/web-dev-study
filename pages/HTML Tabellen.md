@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1648396830160_0.png)
+- Seit HTML5 gibt es auch `thead`, `tbody`, `tfoot` als Unterelemente von `table`
