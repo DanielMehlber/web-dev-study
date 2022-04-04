@@ -1,0 +1,2 @@
+- Der Body trägt die Payload einer HTTP Anfrage
+	- Bei einer HTTP Anfrage mit der POST Methode befindet sich hier der Query String

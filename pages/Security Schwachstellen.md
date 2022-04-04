@@ -1,0 +1,3 @@
+- # Bekannte Schwachstellen
+	- [[SQL Injection]]
+	- [[Cross Site Scripting (XSS)]]

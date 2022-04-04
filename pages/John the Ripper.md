@@ -1,0 +1,2 @@
+- Ein Tool um _gehashte_ Passwörter zurück in ihren Klartext zu wandeln.
+- Der Hash wird in einer großen Datei aus beliebten Passwörtern gesucht. Wenn eine Übereinstimmung gefunden wurde, wird das dazu gehörige Passwort zurückgegeben (Wie bei einer **Rainbow-Table**).

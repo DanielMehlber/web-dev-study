@@ -1,0 +1,5 @@
+- Einführung von Strukturelementen wie `header`, `section`, `nav` die statt `div` verwendet werden können
+- Verbieten von Tags, Attributen und Elementen, die eine Formatierung im HTML code erlauben wie z.B. `align`, `bgcolor`
+- In Forms kann ungültiger Input mit attributen abgelehnt werden #card #HTML5
+	- mit `required` => `<input id="name" required/>`
+	- mit `pattern` => `<input id="name" pattern="regex"/>`

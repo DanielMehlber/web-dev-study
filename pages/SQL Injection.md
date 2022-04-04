@@ -1,0 +1,4 @@
+- Mit einer SQL Injection können Werte **über eine Schwachstelle** gelesen oder geschrieben werden, die sich in einer SQL-Datenbank befinden.
+- Ein nützliches Tool zur automatischen Suche nach Schwachstellen ist [[sqlmap]]
+- # Exploit
+	- Man kann sich die Nutzertabelle `users` mit den Passwort-Hashes ausgeben lassen und mit [[John the Ripper]] versuchen zu entschlüsseln.

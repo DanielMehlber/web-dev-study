@@ -8,8 +8,10 @@
 	  ```
 - ## Strukturelemente
 	- Sturkturelemente sind wichtig für die **Übersichtlichkeit** des HTML codes und vor allem für **die Accessibility** (z.B. für Screen Reader für Sehbehinderte). Auch _Web Crawler_ können sich besser zurechtfinden.
+	- Sie wurden in [[HTML5]] eingeführt
 	- Sie sind statt `<div></div>` zu verwenden wo es möglich ist
 	- Keine Auswirkungen auf Darstellung der Elemente auf der Webseite
+	- Es betont, dass HTML {{cloze Und vor allem [[HTML5]]}} eine ^^Auszeichnungssprache^^ ist und die **semantische Sturkturierung im Vordergrund** steht #card #HTML
 	- ```html
 	  <header></header>
 	  <nav></nav>
@@ -23,7 +25,8 @@
 - ## Fluss Elemente
 	- {{embed [[HTML Listen]]}}
 	- {{embed [[HTML Tabellen]]}}
-- ## TODO Interaktive Elemente
+- ## Interaktive Elements
+	- {{embed [[HTML Forms]]}}
 - ## TODO Einbindende Elemente
 - ## TODO Stil Elemente
 - ## TODO Metadaten

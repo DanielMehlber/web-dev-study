@@ -1,0 +1,8 @@
+- Formulare ist der primäre Weg **mit dem Server zu kommunizieren**
+- Bei Abschicken eines Formulares wird eine [[HTTP]]-Anfrage abgesetzt auf auf die Antwort gewartet
+- # Attribute
+	- `action` => Der Pfad, zu dem die Anfrage geschickt wird
+	- `method` => Untersützt GET und POST (da HTTP und nicht REST)
+	- `enctype` => Gibt an, welchen MIME-Type das gesendete Element besitzt (bei z.B. Bildern relevant) #card
+- # Elemente
+	- {{embed [[HTML Form Elements]]}}

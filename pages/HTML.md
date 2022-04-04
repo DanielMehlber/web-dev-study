@@ -1,14 +1,27 @@
-- Strukturierter Aufbau einer [[Webseite]] und eine Sprache zur **Strukturierung und Auszeichnung von Texten**
-- Wird vom [[World Wide Web Consortium]] weiterentwickelt und standardisiert
-- Funktionen:
+- # Allgemeines
+	- Strukturierter Aufbau einer [[Webseite]] und eine Sprache zur **Strukturierung und Auszeichnung von Texten**
+	- Wird vom [[World Wide Web Consortium]] weiterentwickelt und standardisiert
+	- Dabei sind gewisse [[HTML Best Practises]] anzuwenden
+- # Funktionen
 	- Verweise zur anderen Seiten und damit **Vernetzung von Informationen**
 	- Erzeugen von Tabellen und anderen Strukturen
 	- Multimedia (Bilder, Audiodateien, sonstige Dateien) in Form von Referenzen => Werden mit Request  nachgefordert
 	- Schnittstellen zur Erweiterung durch CSS, JavaScript
-- **Einfach generierbar** => Da Klartextformat
-- **Keine Installation nötig** => Anzeigeformat, keine Pflege von Updates durch den Nutzer nötig
+- # Vorteile
+	- **Einfach generierbar** => Da Klartextformat
+	- **Keine Installation nötig** => Anzeigeformat, keine Pflege von Updates durch den Nutzer nötig
 -
-- Der [W3C HTML Validator](https://validator.w3.org) überprüft das Format einer HTML Datei
-- {{embed [[HTML Head]]}}
-- {{embed [[HTML Body]]}}
+- # Syntax & Format
+	- Der [W3C HTML Validator](https://validator.w3.org) überprüft das Format einer HTML Datei
+	- {{embed [[HTML Head]]}}
+	- {{embed [[HTML Body]]}}
+- # Ordnung
+	- `index.html` => Hauptverzeichnis der Homepage
+	- `/html` => Verzeichnis für HTML Dateien
+	- `/css` => Verzeichnis für CSS Dateien
+	- `/img` => Verzeichnis für Bilder und Multimedia
+	- ## Navigation, Pfade und `href`
+		- `./some/path` oder `some/path` => Relativ zur aktuellen Datei
+		- `/some/path` => Relativ zum Base-Path
+		- `../some/path` => Relativ zum Ordner über der aktuellen Datei (aus Ordner heraussteigen)
 -

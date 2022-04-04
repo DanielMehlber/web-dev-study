@@ -1,0 +1,3 @@
+- Zu jedem Bild muss ein `alt` (Alternativtext für Screenreader oder Browser gesetzt sein)
+- Zu jedem Bild muss die Breite und die Höhe mitgeliefert werden => Dass die Größe bereits bekannt ist, bevor das Bild geladen wurde (sodass die Seite nicht _spingt_).
+- Die Pfade sollen _umproblematisch_ sein, also **Keine Backslashes oder Leerzeichen**
