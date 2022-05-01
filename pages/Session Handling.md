@@ -1,0 +1,6 @@
+- # Session Key
+	- Wird von **Java Servlets** wie folgt umgesetzt:
+	- Cookie mit der `jsessionid` => Verwaltungstabelle auf der Serverseite
+	- ![image.png](../assets/image_1650319754404_0.png){:height 353, :width 751}
+	-
+	-

@@ -10,6 +10,10 @@
 	- Session Scrope
 	- Request Scope
 	- Application Scope
+		- ```java
+		  ServletContext application = request.getServletContext();
+		  application.setAttribute("...", "...");
+		  ```
 - # Normierungen
 	- Getter und Setter die sich 1:1 an den Attributnamen anlehnen
 		- z.B. `name` => `setName()`, `getName()`

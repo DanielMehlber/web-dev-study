@@ -24,3 +24,7 @@
 - # Anwendung
 	- Im Normalfall enthält der JWT einen **Session-Token** im Payload
 	- Der JWT wird mit dem `Authorization: Bearer <token>` HTTP-Header versendet
+- # Vorteile
+	- Server müssen manchmal sehr hohe Datenmengen verwalten. Die Daten, die im JWT gespeichert werden, können die Authentifizierung beschleunigen
+		- Session Key => Server muss alle Nutzer nach Key durchsuchen
+		- JWT => Nutzer steht direkt im Token und muss nicht gesucht werden (direkte Überprüfung)
